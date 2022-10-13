@@ -1,0 +1,16 @@
+export const SOCKET_INIT = 'SOCKET_INIT';
+export const SET_WS = 'SET_WS';
+export const SET_ROOM = 'SET_ROOM';
+export const ADD_TYPE = 'ADD_TYPE';
+export const ADD_USER = 'ADD_USER';
+export const ADD_PRESENT = 'ADD_PRESENT';
+export const PRESENTS_FOR_USER = 'PRESENTS_FOR_USER';
+export const DELETE_PRESENT = 'DELETE_PRESENT';
+export const GET_WORDS = 'GET_WORDS';
+export const SET_WORDS = 'SET_WORDS';
+export const ADD_WORD = 'ADD_WORD';
+export const CHANGE_STATE = 'CHANGE_STATE';
+export const CHECK_PINCODE = 'CHECK_PINCODE';
+export const SET_TRUE_PINCODE = 'SET_TRUE_PINCODE';
+export const GET_COUNTER = 'GET_COUNTER';
+export const SET_COUNTER = 'SET_COUNTER';
