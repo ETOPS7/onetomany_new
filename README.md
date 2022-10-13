@@ -8,12 +8,9 @@
 
 ![](https://github.com/ETOPS7/onetomany_app/blob/dev/onetomany_main.gif)
 
-Этап вовлечения подразумевает под собой показ готовой презентации(опроса). Презентацию можно демонстрировать как онлайн, так и показывать её «живой» аудитории. Во время показа в реальном времени, «живые» зрители могут взаимодействовать с презентацией посредством мобильных телефонов, проходить опросы, отвечать на вопросы и использовать интерактивные элементы.
-
 ```shell
-Стек технологий: Java Script | React | Redux | MUI | Express | Postgress | Node.js | Websockets
+Стек: Java Script | React | Redux | MUI | Express | Postgress | Websockets
 ```
-> &copy; Приложение разработано командой:
-**[Артем Карасев](https://github.com/ETOPS7), [Анна Шмелева](https://github.com/Jihiko-Anna), [Дарья Лобанова](https://github.com/dashrys), [Алмас Сейтгалиев](https://github.com/Diamondooooo)**
+
 
 
